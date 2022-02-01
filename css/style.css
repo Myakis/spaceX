@@ -1898,4 +1898,13 @@ ul {
   .policy:hover {
     color: rgba(128, 255, 0, 0.582);
   }
+<<<<<<< HEAD
+=======
+}
+
+.copyright {
+  text-align: center;
+  margin-top: 25px;
+  font-size: calc(14 / 16 * 1rem);
+>>>>>>> 653de18 (fixed footer)
 }
